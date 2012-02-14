@@ -1,0 +1,12 @@
+This was the project of my 4th semester Computer Programming course.
+I worked on this project is a team of two, me and my friend Mohamed Nagy.
+The project was initially developed using Java (using javax.swing), but I ported it to C# and XNA :)
+
+There are a few bugs here and there, specially when you're playing with a king piece.
+
+The game is like the regular checkers but with some extra messed up rules that we were forced to implement :D
+I currently can't remember these rules (and can't find them on my laptop), but the craziest of them was that if one or more pieces can attack but the player chose not to attack on his turn, all pieces that were able to attack get removed from the board!
+
+I included in this project the Wings 3D files used to create the 3D models, and the Expresion Design file for the game's logo.
+
+To compile this project you need Visual Studio 2010 (or Visual C# 2010 Express) and XNA 4.0 Refresh.
